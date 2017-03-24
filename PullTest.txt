@@ -1,1 +1,4 @@
 This is a pull test. :)
+
+
+Pull test is changed in newbranch2.
