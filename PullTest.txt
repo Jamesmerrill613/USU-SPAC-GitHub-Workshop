@@ -1,4 +1,8 @@
 This is a pull test. :)
+<<<<<<< HEAD
 
 
 Pull test is changed in newbranch3.
+=======
+Anthony was here!
+>>>>>>> 43ab1eb26203597c7d7ca1b9f6d33240ab0ef854
